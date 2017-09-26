@@ -1,0 +1,25 @@
+{
+  "name": "Y",
+  "version": "7.0.1",
+  "description": "RedEyeProgrammer Demo Plugin",
+  "cordova": {
+    "id": "cordova-plugin-redEyeProgrammer",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redEyeProgrammer/redEyePlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "RedEyeProgrammer",
+  "license": "Y",
+  "bugs": {
+    "url": "https://github.com/redEyeProgrammer/redEyePlugin/issues"
+  },
+  "homepage": "https://github.com/redEyeProgrammer/redEyePlugin#readme"
+}
